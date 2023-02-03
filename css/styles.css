@@ -5,14 +5,35 @@ body {
     color: purple;
 }
 
+#header {
+    background: #33A;
+    color: white;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+#header #tagline {
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container {
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+
+    box-shadow: 2px 2px 20px 1px rgba(123,123,123,0.31);
+    -webkit-box-shadow: 2px 2px 20px 1px rgba(123,123,123,0.31);
+    -moz-box-shadow: 2px 2px 20px 1px rgba(123,123,123,0.31);
 }
 
 #container h1 {
     font-size: 20px;
+}
+
+#post {
+    padding: 1em;
 }
