@@ -2,14 +2,22 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: blue;
+    color: black;
+    background-color: rgb(39, 40, 45);
 }
 
 #header {
-    background: #33A;
+    display: flex;
+    background: rgb(68, 85, 141);
     color: white;
     padding: 0.5em;
     font-weight: bold;
+    border-radius: 16px 16px 0 0;
+}
+
+#header #titles {
+    align-self: center;
+    margin-left: 12px;
 }
 
 #header #tagline {
@@ -20,10 +28,12 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0, 1em, 1em, 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: white;
+    border-radius: 16px;
 
     box-shadow: 2px 2px 20px 1px rgba(123,123,123,0.31);
     -webkit-box-shadow: 2px 2px 20px 1px rgba(123,123,123,0.31);
