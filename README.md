@@ -10,5 +10,6 @@ An incredible blog for Git &amp; GitHub Platzi's course
 * Best practices true love
 * Profesor's crazy tricks
 * Freddy's personalities
+* Created by Uriel
 
 This README.md is a **joke** designed to be a example. Just see [this course](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/) and be fun. 
