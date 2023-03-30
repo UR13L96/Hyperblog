@@ -11,5 +11,7 @@ An incredible blog for Git &amp; GitHub Platzi's course
 * Profesor's crazy tricks
 * Freddy's personalities
 * Created by Uriel
+* Includes examples like the Avatar: Windows, Linux, Mac
+* Available for all ages
 
 This README.md is a **joke** designed to be a example. Just see [this course](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/) and be fun. 
